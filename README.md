@@ -1,14 +1,11 @@
-# C# Bridge for Codemaster's F1 2019
+# Bridge for Codemaster's F1 2019
 This bridge is capable of streaming the game's telemetry (PC or Console). It is intended to be run on a pc on your local network.
 
 # Requirements to run the sample
 - .Net Core 3.0 SDK https://dotnet.microsoft.com/download/dotnet-core/3.0
-- An IDE (Microsoft's Visual Studio, JetBrain's Rider or other) to compile it.
 
 # Run the sample
-- Open Bridge.Codemasters.sln with your IDE
-- Build
-- Run Bridge.Codemasters.Console project inside IDE or run Bridge.Codemasters.Console.exe from the bin folder
+- TODO
 
 # Content of the sample
 - Bridge.Codemasters.sln: The solution file describing what projects to include
