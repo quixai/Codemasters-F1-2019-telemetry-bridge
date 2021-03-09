@@ -2,7 +2,7 @@
 
 F1&reg; is the official FIA Formula One game series developed by [Codemasters](https://www.codemasters.com). You can take your gaming experience to the next level by live streaming your in-game telemetry data on Quix and performing visualisations, analytics and simulations just like the real Formula One teams do.
 
-This guide shows you how to obtain, stream and visualise your F1&reg; 2019 game from a PC or gaming console with Quix.
+This guide shows you how to obtain, stream and visualise your F1&reg; 2019 game from a PC or gaming console with Quix. You can follow the same procedure for later editions of the game as long as the UDP format in the telemetry setting is 2019-compatible.
 
 ## Setup
 
@@ -75,7 +75,7 @@ From the game settings, navigate to "Telemetry Settings".
 
 ![F1 Game telemetry settings](docs/images/game_telemetry_settings.png)
 
-In the telemetry settings, make sure that "UDP Telemetry" is set to "On" and that the UDP port matches the port we configured our dotnet application with.
+In the telemetry settings, make sure that "UDP Telemetry" is set to "On" and that the UDP port matches the port we configured our dotnet application with. If you are using a later edition of the game, please set the UDP format to 2019.
 
 ![F1 Game UDP settings](docs/images/game_udp_settings.png)
 
