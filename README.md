@@ -2,7 +2,7 @@
 
 F1&reg; is the official FIA Formula One game series developed by [Codemasters](https://www.codemasters.com). You can take your gaming experience to the next level by live streaming your in-game telemetry data on Quix and performing visualisations, analytics and simulations just like the real Formula One teams do.
 
-This guide shows you how to obtain, stream and visualise your F1&reg; 2019 game from a PC or gaming console with Quix. You can follow the same procedure for later editions of the game as long as the UDP format in the telemetry setting is 2019-compatible.
+This guide shows you how to obtain, stream and visualise your F1&reg; 2019 game from a PC or gaming console with Quix. You can follow the same procedure for later editions of the game as long as the UDP format in the telemetry settings is 2019-compatible.
 
 ## Setup
 
