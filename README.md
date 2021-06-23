@@ -24,7 +24,7 @@ Before we can write game data to a Quix stream, we need to create a topic to hol
 
 ![Quix topics view](docs/images/quix_topics_page.png)
 
-For more information on topics, please visit our [platform documentation](https://documentation-40c5b57b-a938-4925-93a9-25df5a64e54f.platform.quix.ai/topics/).
+For more information on topics, please visit our [platform documentation](https://documentation.platform.quix.ai/quix-prod/demo-quix-product/UsingQuix.html#_topics).
 
 # Create a project
 
@@ -93,4 +93,4 @@ Select stream(s) and parameter(s) you like, and you can view and analyse your pe
 
 ## Next steps
 
-Now that you can stream telemetry data from your races live, you can develop more services using our [SDKs](https://documentation-40c5b57b-a938-4925-93a9-25df5a64e54f.platform.quix.ai) to read from raw data streams and run your own simulations on them in real-time. You can build and deploy client applications like web and mobile apps that consume these live data streams and create fantastic live visualisations.
+Now that you can stream telemetry data from your races live, you can develop more services using our [SDKs](https://documentation.platform.quix.ai/quix-sdk/2021-06/introduction.html) to read from raw data streams and run your own simulations on them in real-time. You can build and deploy client applications like web and mobile apps that consume these live data streams and create fantastic live visualisations.
